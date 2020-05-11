@@ -18,5 +18,9 @@ rgba(0, 0, 0, 0) linear-gradient(to right, rgb(71, 131, 184), rgb(255, 0, 0)) re
 
 ## Author
 
-**Enora Lecuyer** 
+Enora Lecuyer
+
+## License
+
+MIT License
 
